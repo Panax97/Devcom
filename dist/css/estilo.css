@@ -1,0 +1,19 @@
+/*Estilo del boton de registro */
+
+.btn-ttc,
+.btn-ttc:hover,
+.btn-ttc:active {
+  color: white;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background-color: #2E2E2E;
+}
+.btn-ttc {
+  background-repeat: repeat-x;
+  background-image: linear-gradient(top, #009ED2 0%, #007DA7 100%);
+  ...
+}
+.btn-ttc:hover {
+  background-position: 0 -15px;
+}
+
+/*Fin Estilo del boton de registro */

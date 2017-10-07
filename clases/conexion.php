@@ -5,7 +5,7 @@ function conexion()
     $servidor = "localhost";
     $usuario  = "root";
     $password = "";
-    $bd       = "pruebas";
+    $bd       = "blog";
 
     $conexion = mysqli_connect($servidor, $usuario, $password, $bd);
 
