@@ -78,7 +78,7 @@
     <tbody>
       <tr>
         <td>El titulo no tiene que tener mas de 70 caracteres</td>
-        <td>99,999</td>
+        <td>99,998</td>
       </tr>
       <tr>
         <td>Como crear tu primera pagina web Parte 1</td>
